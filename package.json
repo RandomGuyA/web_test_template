@@ -1,15 +1,14 @@
 {
-  "name": "web_test_template",
+  "name": "css_layering_test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "jquery": "^2.1.4",
-	"normalize.css": "^3.0.3",
+    "normalize.css": "^3.0.3",
     "vc-reset-css": "^0.2.2"
   },
-   "devDependencies": {
+  "devDependencies": {
     "grunt": "^0.4.5",
     "jit-grunt": "^0.9.1",
     "assemble-less": "^0.7.0",
@@ -21,12 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RandomGuyA/web_test_template.git"
+    "url": "git+https://github.com/RandomGuyA/CSS-layer-testing.git"
   },
   "author": "Byron Morley",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RandomGuyA/web_test_template/issues"
-  },
-  "homepage": "https://github.com/RandomGuyA/web_test_template#readme"
+  "license": "ISC"
+ 
 }
